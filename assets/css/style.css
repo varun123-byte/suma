@@ -522,7 +522,7 @@ section {
   padding-bottom: 30px;
 }
 .section-title h2 {
-  font-size: 32px;
+  font-size: 52px;
   font-weight: bold;
   text-transform: uppercase;
   margin-bottom: 20px;
@@ -532,6 +532,7 @@ section {
 .section-title p {
   margin-bottom: 0;
   font-style: italic;
+  font-size: 20px;
 }
 
 /*--------------------------------------------------------------
@@ -564,13 +565,13 @@ section {
 .icon-boxes .title {
   font-weight: 700;
   margin-bottom: 15px;
-  font-size: 18px;
+  font-size: 21px;
 }
 .icon-boxes .title a {
   color: #05579e;
 }
 .icon-boxes .description {
-  font-size: 15px;
+  font-size: 17px;
   line-height: 28px;
   margin-bottom: 0;
   color: #777777;
@@ -914,7 +915,7 @@ section {
   margin-left: 70px;
   font-weight: 700;
   margin-bottom: 15px;
-  font-size: 18px;
+  font-size: 23px;
 }
 .services .icon-box h4 a {
   color: #05579e;
@@ -926,7 +927,7 @@ section {
 .services .icon-box p {
   margin-left: 70px;
   line-height: 24px;
-  font-size: 14px;
+  font-size: 17px;
   margin-bottom: 0;
 }
 

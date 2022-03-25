@@ -500,7 +500,8 @@ h1, h2, h3, h4, h5, h6 {
     padding: 100px 0;
   }
   #hero h2 {
-    font-size: 28px;
+    font-size: 52px;
+    margin-bottom:20px;
   }
 }
 
@@ -1103,7 +1104,7 @@ section {
   padding-top: 30px;
 }
 .portfolio-details .portfolio-description h2 {
-  font-size: 26px;
+  font-size: 52px;
   font-weight: 700;
   margin-bottom: 20px;
 }
@@ -1501,9 +1502,10 @@ section {
   margin-top: 130px;
 }
 .breadcrumbs h2 {
-  font-size: 26px;
+  font-size: 52px;
   font-weight: 600;
   color: #043c6d;
+  margin-bottom:20px;
 }
 .breadcrumbs ol {
   display: flex;
